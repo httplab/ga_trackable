@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  dev:
+    build: .
+    volumes:
+      - .:/home/apps/app
+      - ~/data/gems-2.3:/.gem

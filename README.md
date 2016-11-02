@@ -1,1 +1,1 @@
-# acts_as_ga_trackable
+# ga_trackable
